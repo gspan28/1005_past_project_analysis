@@ -1,0 +1,29 @@
+---
+title: "ms_2"
+author: "Grace Pan"
+date: "2/12/2020"
+output: html_document
+---
+
+## Project 1: Mitsue Guerrero- Water stress in Mexico City
+
+Description: Given the large population and limited water resources available in Mexico City, this project visualizes the consumption at block level to identify the biggest consumers and observe the water inequality gap that is making the city run out of water by 2050.
+
+Pro:
+
+1) This project tackles an important question: what are the biggest factors causing Mexico City to use water at an unsustainable rate? 
+2) It uses comprehensive and reliable data from the local government of Mexico City. 
+3) Examining geography at the block level allows us to diagnose the problem in a targeted way. 
+
+Con: 
+
+1) Although the name of the website is "Who is causing water stress in Mexico City?" the website never answers the questions. It would be preferable if Guerrero were able to explicitly draw implications from her map. 
+2) Relatedly, as you hover over the map, the map does not specify the name of each location. 
+3) The video tutorial of the website has many unnecessary cursor movements that distract the viewer from exploring the website. 
+
+## Project 2:
+
+Pro:
+
+Con:
+
